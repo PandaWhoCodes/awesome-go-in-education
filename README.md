@@ -27,10 +27,6 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 
 ### MOOCs
 * [coursera!](https://www.coursera.org/specializations/google-golang)
-* [Go: The Complete Bootcamp Course!](https://www.udemy.com/learn-go-the-complete-bootcamp-course-golang/?couponCode=QUORA-1)
-* [linkedin Learning Go!](https://www.linkedin.com/learning/learning-go)
-* [Master Go!](https://appliedgo.com/p/mastergo)
-* [Team Tree House!](https://teamtreehouse.com/learn-to-code/go)
 
 ### Introductions and Tutorials
 * [Learn Go in Y minutes!](https://learnxinyminutes.com/docs/go/)
