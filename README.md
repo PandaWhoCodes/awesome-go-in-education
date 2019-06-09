@@ -95,6 +95,7 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [GoWayFest](https://goway.io/) - Minsk, Belarus.
 
 ## Books
+* [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [Introducing Go](http://shop.oreilly.com/product/0636920046516.do)
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 * [Go Lang bootcamp](http://www.golangbootcamp.com/book/)
