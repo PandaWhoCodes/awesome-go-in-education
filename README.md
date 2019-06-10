@@ -10,11 +10,11 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
   * [Interactive environments](#interactive-environments)
   * [MOOCs](#moocs)
   * [Introductions and Tutorials](#introductions-and-tutorials)
+* [Books](#books)
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
 * [Tools and Libraries](#tools-and-libraries)
 * [Conferences and videos](#conferences-and-videos)
-* [Books](#books)
 
 ## Courses and lessons
 
@@ -45,6 +45,16 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9) - How to cache slow database queries.
 * [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) - How to cancel MySQL queries.
 * [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - A little e-book on Ethereum Development with Go.
+
+## Books
+* [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+* [Introducing Go](http://shop.oreilly.com/product/0636920046516.do)
+* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+* [Go Lang bootcamp](http://www.golangbootcamp.com/book/)
+* [Learning GO](https://miek.nl/go/)
+* [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+* [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
+* [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
 
 
 ## Exercises and Games
@@ -93,13 +103,3 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
 * [GothamGo](http://gothamgo.com/) - New York City, USA.
 * [GoWayFest](https://goway.io/) - Minsk, Belarus.
-
-## Books
-* [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-* [Introducing Go](http://shop.oreilly.com/product/0636920046516.do)
-* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
-* [Go Lang bootcamp](http://www.golangbootcamp.com/book/)
-* [Learning GO](https://miek.nl/go/)
-* [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
-* [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
-* [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
