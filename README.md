@@ -52,9 +52,11 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 * [Go Lang bootcamp](http://www.golangbootcamp.com/book/)
 * [Learning GO](https://miek.nl/go/)
-* [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 * [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
+* [The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan](http://www.gopl.io/)
+* [Go in Action by Brian Ketelsen, Erik St. Martin, and William Kennedy](http://manning.com/ketelsen/)
+* [Programming in Go by _Mark Summerfield_](http://www.qtrac.eu/gobook.html)
 
 
 ## Exercises and Games
