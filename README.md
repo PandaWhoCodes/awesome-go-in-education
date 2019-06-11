@@ -85,6 +85,14 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 ## Tools and Libraries
 * [Awesome Go](https://github.com/avelino/awesome-go)
 
+### IDE's and Plugins
+
+* Sublime Text via the  [GoSublime plugin](https://github.com/DisposaBoy/GoSublime).
+* Vim via the  [go-vim plugln](https://github.com/fatih/vim-go).
+* [GoLand from Jetbrains](http://www.jetbrains.com/go/), the makers of IDEA. (Free for students)
+* [VS Code](https://code.visualstudio.com/docs/languages/go)
+
+
 ## Conferences and videos
 * [Capital Go](http://www.capitalgolang.com) - Washington, D.C., USA.
 * [dotGo](http://www.dotgo.eu) - Paris, France.
