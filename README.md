@@ -96,6 +96,7 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 
 
 ## Conferences and videos
+### Conferences
 * [Capital Go](http://www.capitalgolang.com) - Washington, D.C., USA.
 * [dotGo](http://www.dotgo.eu) - Paris, France.
 * [GoCon](http://gocon.connpass.com/) - Tokyo, Japan.
@@ -113,3 +114,8 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
 * [GothamGo](http://gothamgo.com/) - New York City, USA.
 * [GoWayFest](https://goway.io/) - Minsk, Belarus.
+
+### Videos
+* [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
+
+
