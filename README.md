@@ -117,5 +117,5 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 
 ### Videos
 * [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
-
+* [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
 
