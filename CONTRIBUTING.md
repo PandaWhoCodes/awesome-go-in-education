@@ -1,4 +1,4 @@
-# Contributing to Awesome Python in Education
+# Contributing to Awesome Go in Education
 
 Thanks for your interest in contributing! Feel welcome and read the following sections in order to know what and how to work on something. If you get stuck at any point you can [create a ticket](https://github.com/PandaWhoCodes/awesome-go-in-education/issues/new).
 
