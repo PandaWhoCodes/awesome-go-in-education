@@ -116,6 +116,7 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [GoWayFest](https://goway.io/) - Minsk, Belarus.
 
 ### Videos
+* [Just for Func - Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 * [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 * [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
 * [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
