@@ -121,3 +121,4 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [Golang REST API With Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
 * [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
+* [GhopherCon: The scheduler saga](https://youtu.be/YHRO5WQGh0k)
